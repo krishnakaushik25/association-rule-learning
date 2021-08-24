@@ -6,32 +6,32 @@ Analysis of historical customer data can highlight if a certain combination of p
 
 ## Project takeaways
 
-1.Introduction to Market Basket Analysis
+1. Introduction to Market Basket Analysis
 
-2.Association rules
+2. Association rules
 
-3.Parameters of association rules
+3. Parameters of association rules
 
-4.Apriori algorithm
+4. Apriori algorithm
 
-5.Fpgrowth algorithm
+5. Fpgrowth algorithm
 
-6.Exploratory Data Analysis
+6. Exploratory Data Analysis
 
-7.Univariate analysis
+7. Univariate analysis
 
-8.Bivariate analysis
+8. Bivariate analysis
 
-9.Identifying top selling products & departments
+9. Identifying top selling products & departments
 
-10.Creating baskets for analysis
+10. Creating baskets for analysis
 
-11.Feature engineering
+11. Feature engineering
 
-12.One hot encoding
+12. One hot encoding
 
-13.Difference between apriori and fpgrowth algorithm
+13. Difference between apriori and fpgrowth algorithm
 
-14.Support, lift, confidence in relation to association rules
+14. Support, lift, confidence in relation to association rules
 
-15.Comparing time taken to run apriori and fpgrowth algorithms
+15. Comparing time taken to run apriori and fpgrowth algorithms
